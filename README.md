@@ -27,16 +27,16 @@ A passionate software developer with a strong background in building efficient a
 
 ## Connect with Me
 
-
+<p>
   <a href="https://www.linkedin.com/in/rehan-ullah-3004">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
   </a>
-  
+  &nbsp;
   <a href="https://github.com/rehan-ullah">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30" height="30"/>
   </a>
-  
+  &nbsp;
   <a href="https://twitter.com/rehanullah_">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Twitter" width="30" height="30"/>
   </a>
-
+</p>
