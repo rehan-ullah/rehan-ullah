@@ -40,3 +40,19 @@ A passionate software developer with a strong background in building efficient a
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Twitter" width="30" height="30"/>
   </a>
 </p>
+
+
+<!-- ## Languages & Tools: (Expertise) 
+Go icon
+android icon
+firebase icon
+flutter icon
+java icon
+postgresql icon
+mysql icon
+sqlite icon
+php icon
+html icon
+css icon
+javascript icon
+git-->
