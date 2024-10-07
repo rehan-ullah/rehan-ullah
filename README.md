@@ -1,4 +1,5 @@
-## Hi there 👋 I am Rehan Ullah
+## Hi 👋 I'm Rehan Ullah
+  ## A Software Developer
 
 <!--
 **rehan-ullah/rehan-ullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
